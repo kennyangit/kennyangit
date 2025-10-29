@@ -1,6 +1,6 @@
 ## 
 <div align="center">
-  <img src="https://64.media.tumblr.com/94405cfd431c45b52a4dc0f228276687/tumblr_obhulhi6621uc9x1zo1_500.gif" width="250"/>
+  <img src="https://64.media.tumblr.com/94405cfd431c45b52a4dc0f228276687/tumblr_obhulhi6621uc9x1zo1_500.gif" width="300"/>
   <h1 style="color:#8A2BE2;">Oi! eu sou o Yan👋</h1>
   <p style="color:#BF40BF;">
     <i>Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> com um forte interesse em Java. 
