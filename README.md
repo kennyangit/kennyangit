@@ -31,7 +31,7 @@
   <p style="color:#BF40BF;">Um pouco sobre minha atividade no GitHub:</p>
   <img alt="My stats" height="180em"  src="https://github-readme-stats.vercel.app/api?username=kennyangit&show_icons=true&theme=dark"/>
   <br/> <br/>
-  <img alt="Top langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyangit&layout=compact&langs_count-&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyangit&theme=dark&currStreakLabel=white&sideLabels=white&dates=white&ring=dad3cd&fire=dad3cd" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
