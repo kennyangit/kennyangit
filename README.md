@@ -10,7 +10,6 @@
   </p>
 </div>
 
-##
 <div align="center" style="display: inline_block">
           <h2>Learning 📖</h2>
           <img  alt="HTML" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -23,14 +22,10 @@
 </div>
 
 
-
 ##
 
 <div align="center">
   <h2 style="color:#8A2BE2;">📈 Estatísticas GitHub</h2>
-  <p style="color:#BF40BF;">Um pouco sobre minha atividade no GitHub:</p>
-  <img alt="My stats" height="180em"  src="https://github-readme-stats.vercel.app/api?username=kennyangit&show_icons=true&theme=dark"/>
-  <br/> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyangit&theme=dark&currStreakLabel=white&sideLabels=white&dates=white&ring=dad3cd&fire=dad3cd" alt="GitHub Streak"/>
 </div>
 
