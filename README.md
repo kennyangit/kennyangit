@@ -1,7 +1,5 @@
-## 
 <div align="center">
-  <img src="https://64.media.tumblr.com/94405cfd431c45b52a4dc0f228276687/tumblr_obhulhi6621uc9x1zo1_500.gif" width="300"/>
-  <h1 style="color:#8A2BE2;">Oi! eu sou o Yan👋</h1>
+  <h2 style="color:#8A2BE2;">Oi! eu sou o Yan👋</h2>
   <p style="color:#BF40BF;">
     <i>Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> com um forte interesse em Java. 
     Atualmente, estou focando meus estudos em criação de interfaces.
@@ -12,21 +10,20 @@
 
 <div align="center" style="display: inline_block">
           <h2>Learning 📖</h2>
-          <img  alt="HTML" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-          <img alt="CSS" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> 
-          <img alt="JavaScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-          <img alt="REACT.JS" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">
-          <img alt="Java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-          <img alt="Python" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+          <img  alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+          <img alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> 
+          <img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+          <img alt="REACT.JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">
+          <img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+          <img alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
           
 </div>
 
 
-##
-
 <div align="center">
   <h2 style="color:#8A2BE2;">📈 Estatísticas GitHub</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyangit&theme=dark&currStreakLabel=white&sideLabels=white&dates=white&ring=dad3cd&fire=dad3cd" alt="GitHub Streak"/>
+  <img alt="My stats" height="140em"  src="https://github-readme-stats.vercel.app/api?username=kennyangit&show_icons=true&theme=dark"/>
+  <img alt="Top langs" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyangit&layout=compact&langs_count=10&theme=dark&hide=python,shell,nushell,powershell"/>
 </div>
 
 <div align="center">
