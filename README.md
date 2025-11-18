@@ -2,7 +2,7 @@
   <h2 style="color:#8A2BE2;">Oi! eu sou o Yan👋</h2>
   <p style="color:#BF40BF;">
     <i>Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> com um forte interesse em Java. 
-    Atualmente, estou focando meus estudos em criação de interface.
+    Atualmente, estou focando meus estudos em criação de interfaces.
     Tenho um grande entusiasmo por aprender e aplicar as melhores práticas para construir soluções robustas e eficientes.
     Acredito no poder da colaboração e estou sempre em busca de novos desafios para aprimorar minhas habilidades!</i>
   </p>
