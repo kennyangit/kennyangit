@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2 style="color:#8A2BE2;">📈 Estatísticas GitHub</h2>
-  <img alt="My stats" height="140em"  src="https://github-readme-stats.vercel.app/api?username=kennyangit&show_icons=true&theme=dark"/>
+  <!-- <img alt="My stats" height="140em"  src="https://github-readme-stats.vercel.app/api?username=kennyangit&show_icons=true&theme=dark"/> -->
   <img alt="Top langs" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyangit&layout=compact&langs_count=10&theme=dark&hide=python,shell,nushell,powershell"/>
 </div>
 
