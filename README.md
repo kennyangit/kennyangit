@@ -17,7 +17,7 @@
   <a href="https://github.com/kennyangit" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[portfolio](https://kennyangit.github.io/newportfolio/)" target="_blank" rel="noreferrer">
+  <a href="https://kennyangit.github.io/newportfolio/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
