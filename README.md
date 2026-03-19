@@ -22,7 +22,7 @@
   <a href="https://github.com/kennyangit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://kennyangit.github.io/newportfolio/" target="_blank">
+  <a href="https://newportfolio-steel-theta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
