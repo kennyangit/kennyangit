@@ -129,6 +129,16 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
 <table>
   <tr>
     <td width="50%">
+      <h3>🌐 Portfólio Pessoal</h3>
+      <p>Portfólio SPA desenvolvido com React, TypeScript e Vite, focado em alta performance, animações fluidas e i18n</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <a href="https://newportfolio-steel-theta.vercel.app/">🔗 Ver site</a>
+    </td>
+    <td width="50%">
       <h3>🐾 Adote um Amigo &nbsp;</h3>
       <p>Site de adoção de animais com listagem de pets disponíveis e interface intuitiva para facilitar o processo de adoção responsável</p>
       <p>
@@ -138,6 +148,8 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       </p>
       <a href="https://github.com/kennyangit/adocao-animais">🔗 Ver código</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🍵 Grano D'oro</h3>
       <p>Landing Page de uma cafeteria desenvolvida em HTML, CSS e JavaScript treinando o conceito de Landing Pages</p>
@@ -148,8 +160,6 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       </p>
       <a href="https://github.com/kennyangit/landingPage">🔗 Ver código</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🛍️ Neo Store</h3>
       <p>Exemplo de site de E-commerce construído com HTML, CSS e JavaScript para disciplina da faculdade</p>
@@ -160,6 +170,8 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       </p>
       <a href="https://github.com/kennyangit/neo_store">🔗 Ver código</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🐢 Pokedex</h3>
       <p>Pokédex interativa utilizando a PokéAPI para buscar informações dos Pokémons em tempo real</p>
@@ -170,8 +182,6 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       </p>
       <a href="https://github.com/kennyangit/Pokedex">🔗 Ver código</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📋 GeneratorOS</h3>
       <p>Sistema desktop em Java Swing para gerenciamento completo de clientes e ordens de serviço</p>
@@ -181,6 +191,8 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       </p>
       <a href="https://github.com/kennyangit/GeneratorOS">🔗 Ver código</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📦 Sistema de Produtos</h3>
       <p>Sistema desktop em Java Swing para gerenciamento de categorias e produtos com CRUD completo</p>
@@ -190,8 +202,6 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       </p>
       <a href="https://github.com/kennyangit/sistema-produtos">🔗 Ver código</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>💰 Calculadora de Comissões</h3>
       <p>Sistema em Python para automatizar cálculos de comissões e despesas, reduzindo esforço manual</p>
@@ -200,16 +210,6 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
         <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white"/>
       </p>
       <a href="https://github.com/kennyangit/PROJECT355">🔗 Ver código</a>
-    </td>
-    <td width="50%">
-      <h3>🌐 Portfólio Pessoal</h3>
-      <p>Portfólio desenvolvido com foco em design responsivo, animações suaves e suporte a dois idiomas</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://kennyangit.github.io/newportfolio/">🔗 Ver site</a>
     </td>
   </tr>
 </table>
