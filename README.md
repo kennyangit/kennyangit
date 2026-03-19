@@ -8,7 +8,7 @@
 
 <!-- TÍTULO ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Focado+em+Clean+Code+%26+UX;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Focado+em+Clean+Code+%26+UX;Sempre+aprendendo+algo+novo+:)" alt="Typing SVG" />
 </p>
 
 <!-- BADGES REDES -->
