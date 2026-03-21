@@ -136,7 +136,7 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
-      <a href="https://newportfolio-steel-theta.vercel.app/">🔗 Ver site</a>
+      <a href="https://github.com/kennyangit/kennyan-portfolio">🔗 Ver código</a>
     </td>
     <td width="50%">
       <h3>🐾 Adote um Amigo &nbsp;</h3>
