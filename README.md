@@ -139,12 +139,12 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/kennyangit/kennyan-portfolio">
-        <img src="https://img.shields.io/badge/-Portfólio-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
-        <br/> 🌐 <strong>Portfólio Pessoal</strong>
+      <a href="https://github.com/kennyangit/finance-tracker">
+        <img src="https://img.shields.io/badge/-Finanças-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+        <br/> 🌐 <strong>Finance Tracker</strong>
       </a>
       <br/>
-      <sub>Portfólio SPA desenvolvido com React, TypeScript e Vite, focado em alta performance, animações fluidas e i18n.</sub>
+      <sub>Sistema financeiro pessoal com dashboard, gráficos e CRUD de transações, disponível para web (React/Vite) e mobile (React Native/Expo), ambos com integração ao Supabase.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/kennyangit/adocao-animais">
@@ -152,7 +152,7 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
         <br/> 🐾 <strong>Adote um Amigo</strong>
       </a>
       <br/>
-      <sub>Site de adoção de animais com listagem de pets disponíveis e interface intuitiva para adoção responsável.</sub>
+      <sub>Site expositivo de adoção de animais com listagem de pets disponíveis e interface intuitiva para adoção responsável.</sub>
     </td>
   </tr>
 
