@@ -5,19 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: kennyangit
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8b5cf6&color_dots=#1a1a1a,#6d28d9,#7c3aed,#8b5cf6,#a78bfa
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-red.svg?color_snake=cc3333&color_dots=#0d1117,#3a0a0a,#6b1111,#aa2222,#cc3333
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
