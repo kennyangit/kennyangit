@@ -16,15 +16,9 @@
 
 <!-- BOTÕES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yan-kenny/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/kennyangit" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://kennyan-dev.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-CC3333?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/yan-kenny/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/kennyangit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://kennyan-dev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-CC3333?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <!-- CONTADORES -->
@@ -60,19 +54,27 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
   <tbody>
     <tr>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/0c97c508-b35e-444c-92cc-6db54f290ee1" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/60d47f29-1e0b-4630-a280-9bbb8a28bc32" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/8bf9ed7c-2876-42b4-8d5e-9d4965c9cb30" />
+        <img src="https://skillicons.dev/icons?i=java" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=python" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=javascript" width="55" />
       </td>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/4857983c-d24f-498d-b830-521b499cb00a" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/8cc5eb56-b0d6-4e0f-9d53-7b2fd0594ff2" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/66c4a7f6-1b90-4189-99fe-0661cbcc429e" />
+        <img src="https://skillicons.dev/icons?i=html" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=css" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=typescript" width="55" />
       </td>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/d126614e-a018-4923-9796-ebbb01c3eeaa" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/c712c1f3-80a5-4385-b7d9-4887bc801972" />
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bc648e01-2c11-41b6-a44a-6d170267857d" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=spring" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+        <br><br>
       </td>
     </tr>
   </tbody>
@@ -89,18 +91,23 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
   <tbody>
     <tr>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/809a2076-c1f2-4b69-b7ce-7af564f898e7" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bf8b1c08-5271-4a16-a2ec-96ae2c7d0155" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=mysql" width="55" />
       </td>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/378f3b5f-7f21-475f-a959-20f87ed5ca98" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/65a0cae8-a426-4bea-9171-8d540776cbcf" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/704b8225-074f-461a-9be6-9ba1fd58e3e2" />
+        <img src="https://skillicons.dev/icons?i=pycharm" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=vscode" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=idea" width="55" />
       </td>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/74ad78a9-f93e-4b4a-86ec-6ee4a23e5809" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/0deff044-f26a-40da-96fe-71c924a92408" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/74e47478-c10c-4c0b-97a8-5707c931c262" />
+        <img src="https://skillicons.dev/icons?i=git" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=github" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=aws" width="55" />
       </td>
     </tr>
   </tbody>
@@ -116,13 +123,17 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
   <tbody>
     <tr>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/4898dd23-4134-400d-b4fb-f5f2ac965031" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/ce4593e6-91df-4fc8-80cd-7963bd4380b1" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+        <br><br>
       </td>
       <td align="center">
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/aafd22e5-c7f4-4dbe-acb2-2f49df0b118e" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/563849f6-c014-48db-8ed4-a45d0c298546" />&nbsp;&nbsp;
-        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/f855d882-ac32-42ee-860b-66422bff6f98" />
+        <img src="https://skillicons.dev/icons?i=linux" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=docker" width="55" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="55" />
       </td>
     </tr>
   </tbody>
@@ -239,25 +250,17 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
 
 ---
 
-### 📫 Vamos nos conectar?
+### 🤝 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yan-kenny/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yankennydsn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kennyangit">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
+  <a href="https://www.linkedin.com/in/yan-kenny/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yankennydsn@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kennyangit"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>
 </p>
 
 <p align="center">
-  <strong>Aberto a networking, colaborações e oportunidades.</strong><br>
-  Se quiser trocar uma ideia, me chama! 👊
+  Aberto a networking, colaborações e oportunidades.<br>
+  Se quiser trocar uma ideia, me chama!
 </p>
 
 ---
