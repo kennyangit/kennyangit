@@ -1,5 +1,3 @@
-# README.md
-
 <!-- BANNER TOPO -->
 <p align="center">
   <img
