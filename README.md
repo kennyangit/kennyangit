@@ -1,7 +1,9 @@
+# README.md
+
 <!-- BANNER TOPO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Yan%20Kenny&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=0:8b5cf6,50:7c3aed,100:6d28d9"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Yan%20Kenny&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=0:cc3333,50:aa2222,100:881111"
     alt="banner"
   />
 </p>
@@ -9,7 +11,7 @@
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software+%7C+Clean+Code+%26+UX;Construindo+interfaces+intuitivas+e+solu%C3%A7%C3%B5es+poderosas;Apaixonado+por+automa%C3%A7%C3%A3o+e+boas+pr%C3%A1ticas;Sempre+aprendendo+algo+novo+%3A)"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=CC3333&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software+%7C+Clean+Code+%26+UX;Construindo+interfaces+intuitivas+e+solu%C3%A7%C3%B5es+poderosas;Apaixonado+por+automa%C3%A7%C3%A3o+e+boas+pr%C3%A1ticas;Sempre+aprendendo+algo+novo+%3A)"
     alt="Texto animado"
   />
 </p>
@@ -19,22 +21,19 @@
   <a href="https://www.linkedin.com/in/yan-kenny/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yankennydsn@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/kennyangit" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://kennyan-dev.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-CC3333?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 <!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kennyangit&label=Visualiza%C3%A7%C3%B5es&color=8b5cf6" />
-  <img src="https://img.shields.io/github/followers/kennyangit?label=Seguidores&color=7c3aed" />
-  <img src="https://img.shields.io/github/stars/kennyangit?label=Estrelas&color=7c3aed" />
+  <img src="https://komarev.com/ghpvc/?username=kennyangit&label=Visualiza%C3%A7%C3%B5es&color=cc3333" />
+  <img src="https://img.shields.io/github/followers/kennyangit?label=Seguidores&color=aa2222" />
+  <img src="https://img.shields.io/github/stars/kennyangit?label=Estrelas&color=aa2222" />
 </p>
 
 <hr/>
@@ -57,24 +56,24 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
     <tr>
       <th width="33%">💻 Back-end</th>
       <th width="33%">🎨 Front-end</th>
-      <th width="33%">📚 Frameworks & Testes</th>
+      <th width="33%">📚 Frameworks</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/0c97c508-b35e-444c-92cc-6db54f290ee1" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/60d47f29-1e0b-4630-a280-9bbb8a28bc32" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/8bf9ed7c-2876-42b4-8d5e-9d4965c9cb30" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/4857983c-d24f-498d-b830-521b499cb00a" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/8cc5eb56-b0d6-4e0f-9d53-7b2fd0594ff2" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/66c4a7f6-1b90-4189-99fe-0661cbcc429e" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React logo" />&nbsp;&nbsp;
-        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUnit logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/d126614e-a018-4923-9796-ebbb01c3eeaa" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/c712c1f3-80a5-4385-b7d9-4887bc801972" />
       </td>
     </tr>
   </tbody>
@@ -91,18 +90,18 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/809a2076-c1f2-4b69-b7ce-7af564f898e7" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bf8b1c08-5271-4a16-a2ec-96ae2c7d0155" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/378f3b5f-7f21-475f-a959-20f87ed5ca98" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/65a0cae8-a426-4bea-9171-8d540776cbcf" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/704b8225-074f-461a-9be6-9ba1fd58e3e2" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" />&nbsp;&nbsp;
-        <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/74ad78a9-f93e-4b4a-86ec-6ee4a23e5809" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/0deff044-f26a-40da-96fe-71c924a92408" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/74e47478-c10c-4c0b-97a8-5707c931c262" />
       </td>
     </tr>
   </tbody>
@@ -118,13 +117,13 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/4898dd23-4134-400d-b4fb-f5f2ac965031" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/ce4593e6-91df-4fc8-80cd-7963bd4380b1" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions logo" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/aafd22e5-c7f4-4dbe-acb2-2f49df0b118e" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/563849f6-c014-48db-8ed4-a45d0c298546" />&nbsp;&nbsp;
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/f855d882-ac32-42ee-860b-66422bff6f98" />
       </td>
     </tr>
   </tbody>
@@ -140,7 +139,7 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
   <tr>
     <td align="center">
       <a href="https://github.com/kennyangit/finance-tracker">
-        <img src="https://img.shields.io/badge/-Finanças-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Finanças-CC3333?style=for-the-badge&logo=react&logoColor=white"/>
         <br/> 🌐 <strong>Finance Tracker</strong>
       </a>
       <br/>
@@ -219,16 +218,16 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
 ## 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kennyangit&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&custom_title=Estatísticas+do+GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kennyangit&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&hide=python&custom_title=Linguagens+Mais+Usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kennyangit&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=cc3333&icon_color=cc3333&text_color=ffffff&custom_title=Estatísticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kennyangit&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=cc3333&text_color=ffffff&hide=python&custom_title=Linguagens+Mais+Usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyangit&theme=tokyonight&hide_border=false&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+  <img src="https://streak-stats.demolab.com/?user=kennyangit&theme=tokyonight&hide_border=false&background=0d1117&ring=cc3333&fire=cc3333&currStreakLabel=cc3333" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kennyangit&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&bg_color=0d1117&color=8b5cf6&line=7c3aed&point=8b5cf6&custom_title=Gráfico+de+Atividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kennyangit&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&bg_color=0d1117&color=cc3333&line=aa2222&point=cc3333&custom_title=Gráfico+de+Atividades" />
 </div>
 
 ---
@@ -267,6 +266,6 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
 <!-- BANNER RODAPÉ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=190&text=%22A%20melhor%20maneira%20de%20prever%20o%20futuro%20é%20criá-lo.%22&fontColor=ffffff&fontSize=22&color=0:8b5cf6,50:7c3aed,100:6d28d9&desc=Alan%20Kay%20-%20💡&descSize=18&descAlignY=70&descColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=rect&height=190&text=%22A%20melhor%20maneira%20de%20prever%20o%20futuro%20é%20criá-lo.%22&fontColor=ffffff&fontSize=22&color=0:cc3333,50:aa2222,100:881111&desc=Alan%20Kay%20-%20💡&descSize=18&descAlignY=70&descColor=ffffff"
   />
 </p>
