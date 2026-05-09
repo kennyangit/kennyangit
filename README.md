@@ -235,7 +235,7 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
 ### 🐍 Minhas contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kennyangit/kennyangit/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kennyangit/kennyangit/output/github-contribution-grid-snake-red.svg" alt="snake animation" />
 </div>
 
 ---
