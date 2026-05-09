@@ -74,6 +74,7 @@ Nos meus projetos, busco aplicar o princípio **Clean Code** e boas práticas de
       <td align="center">
         <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/d126614e-a018-4923-9796-ebbb01c3eeaa" />&nbsp;&nbsp;
         <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/c712c1f3-80a5-4385-b7d9-4887bc801972" />
+        <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bc648e01-2c11-41b6-a44a-6d170267857d" />
       </td>
     </tr>
   </tbody>
