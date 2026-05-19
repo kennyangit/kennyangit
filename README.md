@@ -9,7 +9,7 @@
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=CC3333&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software+%7C+Clean+Code+%26+UX;Construindo+interfaces+intuitivas+e+solu%C3%A7%C3%B5es+poderosas;Apaixonado+por+automa%C3%A7%C3%A3o+e+boas+pr%C3%A1ticas;Sempre+aprendendo+algo+novo+%3A)"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=CC3333&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack+%7C+Clean+Code+%26+UX;Construindo+interfaces+intuitivas+e+solu%C3%A7%C3%B5es+poderosas;Apaixonado+por+automa%C3%A7%C3%A3o+e+boas+pr%C3%A1ticas;Sempre+aprendendo+algo+novo+%3A)"
     alt="Texto animado"
   />
 </p>
